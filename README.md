@@ -13,7 +13,7 @@ Usage: GetConsoleHistoryAndOutput.exe pid_of_console_process outputfile_path
 ```
 ## Examples
 The PID of the following console is 6364
-![alt tag](https://image.ibb.co/iQG6K6/cmd.png "cmd.exe") 
+![alt tag](https://image.ibb.co/iQG6K6/cmd.png "cmd.exe")<br /> 
 Running:
 ```
 GetConsoleHistoryAndOutput.exe 6364 output.txt
@@ -52,7 +52,7 @@ L17: C:\Users\lex>
 This project is licensed under the  BSD 3-clause license - see the [LICENSE](LICENSE) file for details
 
 ## Contributors
-
+[Illusive Networks](https://www.illusivenetworks.com/) Research & Dev team members:
 * Tomer Shamul
 * Tom Kahana
 * Dolev Ben Shushan
